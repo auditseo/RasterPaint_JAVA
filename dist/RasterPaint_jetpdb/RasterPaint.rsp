@@ -1,0 +1,35 @@
+
+-jetcomponent=10.50
+-jetedition=Evaluation
+-vcode=5
+-sys=W
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:RasterPaint.jar
+-config=JETProfile:5
+-config=JETProfileName:1.7.0_55
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=E:/My_studies/Java_programms/RasterPaint/dist/RasterPaint_jetpdb/RasterPaint.efs
+-config=MainClass:rasterpaint/RasterPaint
+-config=VersionInfo:jet-1050-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.7.0_55; JET update level: 0; CPU architecture: x86
+-name=RasterPaint.exe
+E:\My_studies\Java_programms\RasterPaint\dist\RasterPaint_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+-LinkFileAsRData=LINK_SplashPicture:C:\jet10.5-eval-x86\lib\x86\dummysplash.lib
+C:\jet10.5-eval-x86\lib\x86\startup-exe-normal.zip
+-config=PackagingOptions:dlls=java;net;t2k;nio;awt;dcpr;fontmanager;zip component_microversions=BC-0
+-ReadLinkInfo=E:\My_studies\Java_programms\RasterPaint\dist\RasterPaint_jetpdb\reorder.li
+E:\My_studies\Java_programms\RasterPaint\dist\RasterPaint_jetpdb\obj.zip
+-Config=RTComponent:XKRN10505.dll
+C:\jet10.5-eval-x86\lib\x86\startup-rtlink.zip
+C:\jet10.5-eval-x86\lib\x86\import32.lib
+C:\Users\artamonov\Downloads\magic-marker-icon-business-brush-paint57-sc52_32x32.ico
+C:\jet10.5-eval-x86\lib\x86\app.res
+-StrictLinkToDLL
+

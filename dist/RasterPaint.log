@@ -1,0 +1,65 @@
+Excelsior JET v10.5 Evaluation Version (c) Excelsior 1997,2013
+Active Java SE Version 1.7.0_55 (profile 5)
+************************  JET v10.5 EVALUATION **************************
+*  This program cannot be used in a business, commercial, government,  *
+*  or  institutional  environment  except  for  evaluation  purposes.  *
+************************************************************************
+Make project "E:\My_studies\Java_programms\RasterPaint\dist\RasterPaint.prj"
+Reading RasterPaint.jar ...  8 classes
+
+Total compilable classes within classpath entries: 8
+
+------------------------  Parsing Stage  ---------------------------------------
+
+   1/8: RasterPaint.jar:/rasterpaint/RasterPaint$1.class
+   2/8: RasterPaint.jar:/rasterpaint/RasterPaint$2.class
+   3/8: RasterPaint.jar:/rasterpaint/RasterPaint$3.class
+   4/8: RasterPaint.jar:/rasterpaint/RasterPaint$4.class
+   5/8: RasterPaint.jar:/rasterpaint/RasterPaint$5.class
+   6/8: RasterPaint.jar:/rasterpaint/RasterPaint$6.class
+   7/8: RasterPaint.jar:/rasterpaint/RasterPaint$Modiefier.class
+   8/8: RasterPaint.jar:/rasterpaint/RasterPaint.class
+-------------------------------------------------------------------
+files: 8  errors: 0  warnings: 0  notices: 0
+
+------------------------  Codegen Stage  ---------------------------------------
+
+  0% done, 8/8 to go: RasterPaint.jar:/rasterpaint/RasterPaint.class
+errors(0), warnings(0), notes(0); bytes(141814), time  1.58
+ 12% done, 7/8 to go: RasterPaint.jar:/rasterpaint/RasterPaint$Modiefier.class
+errors(0), warnings(0), notes(0); bytes(26043), time  0.44
+ 25% done, 6/8 to go: RasterPaint.jar:/rasterpaint/RasterPaint$6.class
+errors(0), warnings(0), notes(0); bytes(6172), time  0.00
+ 37% done, 5/8 to go: RasterPaint.jar:/rasterpaint/RasterPaint$5.class
+errors(0), warnings(0), notes(0); bytes(7928), time  0.02
+ 50% done, 4/8 to go: RasterPaint.jar:/rasterpaint/RasterPaint$4.class
+errors(0), warnings(0), notes(0); bytes(12073), time  0.06
+ 62% done, 3/8 to go: RasterPaint.jar:/rasterpaint/RasterPaint$3.class
+errors(0), warnings(0), notes(0); bytes(57514), time  0.00
+ 75% done, 2/8 to go: RasterPaint.jar:/rasterpaint/RasterPaint$2.class
+errors(0), warnings(0), notes(0); bytes(19233), time  0.23
+ 87% done, 1/8 to go: RasterPaint.jar:/rasterpaint/RasterPaint$1.class
+errors(0), warnings(0), notes(0); bytes(18389), time  0.03
+Processing startup profile...
+New "E:/My_studies/Java_programms/RasterPaint/dist/RasterPaint_jetpdb/nums.clnums" is generated
+Preparing resources for packing ...
+Processing RasterPaint.jar ...
+Resources were successfully prepared for packing.
+-------------------------------------------------------------------
+files: 8  errors: 0  warnings: 0  notices: 0
+
+XDS Link Version 2.24.14 Copyright (c) Excelsior 1995-2014.
+No errors, no warnings
+
+Link time 0:00.44
+
+Total compilation time 0:09.66
+Startup Accelerator Helper Version 1.2 Copyright (c) Excelsior 2010-2015.
+
+Running application:
+  "E:\My_studies\Java_programms\RasterPaint\dist\RasterPaint.exe"
+
+
+Application terminated with exit code 0
+Profile successfully hard-wired into "E:\My_studies\Java_programms\RasterPaint\dist\RasterPaint.exe"
+

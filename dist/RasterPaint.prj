@@ -1,0 +1,46 @@
+%%Excelsior JET v10.5 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-javacommandline:=java -jar RasterPaint.jar
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-main=rasterpaint/RasterPaint
+-outputdir=.
+-outputname=RasterPaint
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-stacklimit=900000
+-startupprofile=./RasterPaint.startup
+-versioninfocompanyname=Artamonov Alexander (BVT-21 group)
+-versioninfofiledescription=RasterPaint
+-versioninfolegalcopyright=Copyright \x00a9 2015 Artamonov Alexander (BVT-21 group)
+-versioninfoproductname=RasterPaint
+
+
+
+
+!classpathentry ./RasterPaint.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+
+!module C:/Users/artamonov/Downloads/magic-marker-icon-business-brush-paint57-sc52_32x32.ico
+!module ./RasterPaint.usg
+
